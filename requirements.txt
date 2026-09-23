@@ -1,0 +1,10 @@
+streamlit
+coqui-tts>=0.27.5
+transformers>=4.57,<5
+opencv-python-headless
+accelerate
+pandas
+soundfile
+pydub
+torch
+Pillow
